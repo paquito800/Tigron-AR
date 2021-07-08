@@ -1,2 +1,2 @@
 HWIDs = {};
- table.insert(HWIDs, 'uwu');
+ table.insert(HWIDs, 'uwu'); table.insert(HWIDs, 'qqqq');
