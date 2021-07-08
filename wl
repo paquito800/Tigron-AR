@@ -3,3 +3,4 @@ HWIDs = {};
  
 
 return HWIDs
+ table.insert(HWIDs, 'dddddd'); return HWIDs;
