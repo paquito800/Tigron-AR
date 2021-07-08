@@ -1,1 +1,1 @@
-HWIDs = {}
+HWIDs = {};
