@@ -1,1 +1,2 @@
 _G.HWIDs = {};
+ table.insert(_G.HWIDs, '4AB56F32-357E-444A-ABD0-682F8D9BF299');
