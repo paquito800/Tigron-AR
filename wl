@@ -1,2 +1,1 @@
 HWIDs = {};
- HWIDs.Insert('aaaa')
